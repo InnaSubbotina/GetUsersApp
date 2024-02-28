@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GetUsersApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sort">Сортировка</string>
+    <string name="to_ABC">По алфавиту</string>
+    <string name="to_birthday">По дню рождения</string>
+
+    <string name="years1">лет</string>
+    <string name="years2">год</string>
+    <string name="years3">года</string>
+    <string name="back">назад</string>
+    <string name="search_name_hint">Поиск по имени, фамилии...</string>
+    <string name="nothing_found_title">Мы никого не нашли</string>
+    <string name="nothing_found_text">Попробуй скорректировать запрос</string>
+</resources>
